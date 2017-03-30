@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "SwipeView"
-  s.version      = "1.3.2.1"
+  s.version      = "0.1"
   s.summary      = 'SwipeView.'
   s.homepage     = "https://github.com/piictlly/SwipeView"
   s.license       = { :type => 'MIT', :file => 'LICENSE' }
